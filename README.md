@@ -4,8 +4,8 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2505.02788-green)](https://doi.org/10.48550/arXiv.2505.02788)  
 [![Conference](https://img.shields.io/badge/Conference-ICCS'25-blue)](https://www.iccs-meeting.org/iccs2025/)  
 [![License: Apache License 2.0](https://img.shields.io/badge/License-Apache%20License%20v2.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)  
-<!-- [![LinkedIn: SupreethMV](https://img.shields.io/badge/LinkedIn-Supreeth%20Mysore%20Venkatesh-blue)](https://www.linkedin.com/in/supreethmv/)   -->
-<!-- [![Website: SupreethMV](https://img.shields.io/badge/Website-www.supreethmv.com-brightgreen)](https://www.supreethmv.com) -->
+[![LinkedIn: SupreethMV](https://img.shields.io/badge/LinkedIn-Supreeth%20Mysore%20Venkatesh-blue)](https://www.linkedin.com/in/supreethmv/)  
+[![Website: SupreethMV](https://img.shields.io/badge/Website-www.supreethmv.com-brightgreen)](https://www.supreethmv.com)
 
 ---
 
