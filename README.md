@@ -14,7 +14,7 @@ Iterative Quantum Least Squares Algorithm
 
 This repository contains the official implementation of our paper:
 
-> **"i-QLS: Quantum-supported Algorithm for Least Squares"**  
+> **i-QLS: Quantum-supported Algorithm for Least Squares Optimization in Non-Linear Regression**  
 > 🏛️ Accepted at *25th International Conference on Computational Science (Main Track – Quantum Computing)*
 
 ---
