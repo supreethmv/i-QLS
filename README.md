@@ -71,6 +71,24 @@ You’ll find:
 
 ---
 
+## **Citing this Work**
+
+If you find this code useful in your research, please cite the following paper:
+
+```bibtex
+@misc{venkatesh2025iqls,
+      title={i-QLS: Quantum-supported Algorithm for Least Squares Optimization in Non-Linear Regression}, 
+      author={Venkatesh, Supreeth Mysore and Macaluso, Antonio and Nuske, Marlon and Klusch, Matthias and Dengel, Andreas},
+      year={2025},
+      eprint={2505.02788},
+      archivePrefix={arXiv},
+      primaryClass={quant-ph},
+      url={https://arxiv.org/abs/2505.02788}
+      }
+```
+
+---
+
 ## 💬 Questions or Feedback?
 
 Open an issue or drop us a message. We welcome collaborations, ideas, and contributions!
