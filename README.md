@@ -16,7 +16,7 @@ This repository contains the official implementation of our paper:
 > **i-QLS: Quantum-supported Algorithm for Least Squares Optimization in Non-Linear Regression**  
 > 🏛️ Accepted at *25th International Conference on Computational Science (Main Track – Quantum Computing)*
 
-Preprint available on [arXiv-2505.02788](https://doi.org/10.48550/arXiv.2505.02788)
+Preprint available on [arXiv:2505.02788](https://doi.org/10.48550/arXiv.2505.02788)
 
 ---
 
