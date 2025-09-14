@@ -1,6 +1,6 @@
 # i-QLS: Quantum-supported Algorithm for Least Squares Optimization in Non-Linear Regression
 
-<!-- [![Paper DOI](https://img.shields.io/badge/DOI-10.1109/QCE60285.2024.00059-orange)](https://doi.org/10.1109/QCE60285.2024.00059)   -->
+[![Paper DOI](https://img.shields.io/badge/Springer-Nature-orange)](https://doi.org/10.1007/978-3-031-97629-2_2)  
 [![arXiv](https://img.shields.io/badge/arXiv-2505.02788-green)](https://doi.org/10.48550/arXiv.2505.02788)  
 [![Conference](https://img.shields.io/badge/Conference-ICCS'25-blue)](https://www.iccs-meeting.org/iccs2025/)  
 [![License: Apache License 2.0](https://img.shields.io/badge/License-Apache%20License%20v2.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)  
@@ -76,14 +76,27 @@ You’ll find:
 If you find this code useful in your research, please cite the following paper:
 
 ```bibtex
-@misc{venkatesh2025iqls,
-      title={i-QLS: Quantum-supported Algorithm for Least Squares Optimization in Non-Linear Regression}, 
-      author={Venkatesh, Supreeth Mysore and Macaluso, Antonio and Nuske, Marlon and Klusch, Matthias and Dengel, Andreas},
-      year={2025},
-      eprint={2505.02788},
-      archivePrefix={arXiv},
-      primaryClass={quant-ph},
-      url={https://arxiv.org/abs/2505.02788}
+@InProceedings{iqls,
+      author="Venkatesh, Supreeth Mysore
+      and Macaluso, Antonio
+      and Arenas, Diego
+      and Klusch, Matthias
+      and Dengel, Andreas",
+      editor="Lees, Michael H.
+      and Cai, Wentong
+      and Cheong, Siew Ann
+      and Su, Yi
+      and Abramson, David
+      and Dongarra, Jack J.
+      and Sloot, Peter M. A.",
+      title="i-QLS: Quantum-Supported Algorithm for Least Squares Optimization in Non-linear Regression",
+      booktitle="Computational Science -- ICCS 2025",
+      year="2025",
+      publisher="Springer Nature Switzerland",
+      address="Cham",
+      pages="19--34",
+      isbn="978-3-031-97629-2",
+      doi="10.1007/978-3-031-97629-2_2"
       }
 ```
 
