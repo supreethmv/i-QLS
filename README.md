@@ -1,6 +1,6 @@
 # i-QLS: Quantum-supported Algorithm for Least Squares Optimization in Non-Linear Regression
 
-[![Paper DOI](https://img.shields.io/badge/Springer-Nature-orange)](https://doi.org/10.1007/978-3-031-97629-2_2)  
+[![Paper DOI](https://img.shields.io/badge/Paper_DOI-10.1007/978.3.031.97629.2_2-orange)](https://doi.org/10.1007/978-3-031-97629-2_2)  
 [![arXiv](https://img.shields.io/badge/arXiv-2505.02788-green)](https://doi.org/10.48550/arXiv.2505.02788)  
 [![Conference](https://img.shields.io/badge/Conference-ICCS'25-blue)](https://www.iccs-meeting.org/iccs2025/)  
 [![License: Apache License 2.0](https://img.shields.io/badge/License-Apache%20License%20v2.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)  
