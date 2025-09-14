@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+i-QLS-nonlinear.ipynb
+dwave-api-token.txt
+linear_figures/
+
 # C extensions
 *.so
 
